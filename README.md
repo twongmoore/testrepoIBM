@@ -1,2 +1,2 @@
 # Test repo IBM
-Practice for IBM Data Science Professional Certificate
+First practice of using Jupyter Notebooks/Python for the IBM Data Science Professional Certificate.
